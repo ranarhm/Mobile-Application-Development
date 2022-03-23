@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question_text">Question</string>
+    <string name="answer_0_button">Answer 0</string>
+    <string name="answer_1_button">Answer 1</string>
+    <string name="answer_2_button">Answer 2</string>
+    <string name="answer_3_button">Answer 3</string>
+    <string name="iran_question">What is the capital of Iran?</string>
+    <string name="opera_question">Where is the Sydney Opera House located?</string>
+    <string name="africa_question">Where is the source of the Nile River located?</string>
+    <string name="americas_question">What is the longest river in the Americas?</string>
+    <string name="iran_answer_tehran">Tehran</string>
+    <string name="iran_answer_isfahan">Isfahan</string>
+    <string name="iran_answer_shiraz">Shiraz</string>
+    <string name="iran_answer_yazd">Yazd</string>
+    <string name="opera_answer_brisbane">Brisbane</string>
+    <string name="opera_answer_sydney">Sydney</string>
+    <string name="opera_answer_perth">Perth</string>
+    <string name="opera_answer_canberra">Canberra</string>
+    <string name="africa_answer_nigeria">Nigeria</string>
+    <string name="africa_answer_libya">Libya</string>
+    <string name="africa_answer_egypt">Egypt</string>
+    <string name="africa_answer_morocco">Morocco</string>
+    <string name="americas_answer_missouri">Missouri</string>
+    <string name="americas_answer_mississippi">Mississippi</string>
+    <string name="americas_answer_purus">Purus</string>
+    <string name="americas_answer_amazon">Amazon</string>
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+    <string name="results_heading">Results</string>
+    <string name="total_questions_label">Total questions: </string>
+<!--    <string name="total_questions_value">Total questions</string>-->
+    <string name="total_answers_correct_label">Total correct: </string>
+<!--    <string name="total_answers_correct_value">Total correct</string>-->
+    <string name="total_hints_used_label">Hints used: </string>
+<!--    <string name="total_hints_used_value">Hints used</string>-->
+</resources>
