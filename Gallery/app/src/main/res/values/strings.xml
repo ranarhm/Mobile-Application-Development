@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_gallery">Gallery</string>
+    <string name="icon_map">Map</string>
+    <string name="icon_reload_button">Reload</string>
+</resources>
